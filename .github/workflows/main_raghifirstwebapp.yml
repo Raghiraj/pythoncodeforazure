@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'raghifirstwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_03D1779E7A8147D19D6993E2D7254A6E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_813FD964AC064F57867E56A397CDF37F }}
